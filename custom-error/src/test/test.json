@@ -1,0 +1,13 @@
+{
+  "web": {
+    "client_id": "1092552414312-9kcmi2hs3jn1cgmncku3i9ehsuibnuk6.apps.googleusercontent.com",
+    "project_id": "civic-matrix-348903",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost:8080/login/oauth2/code/google"
+    ]
+  }
+}
