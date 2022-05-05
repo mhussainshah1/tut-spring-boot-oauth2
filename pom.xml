@@ -3,15 +3,15 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.springframework.guides</groupId>
-	<artifactId>tut-spring-boot-oauth</artifactId>
+	<artifactId>tut-spring-boot-oauth2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Spring Security OAuth2 Samples</name>
 
 	<modules>
-		<module>simple</module>
-		<module>click</module>
-		<module>logout</module>
+		<module>social-simple</module>
+		<module>social-click</module>
+		<module>social-logout</module>
 		<module>two-providers</module>
 		<module>custom-error</module>
 	</modules>
