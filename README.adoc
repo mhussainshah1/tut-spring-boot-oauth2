@@ -25,9 +25,9 @@ All samples are implemented using the native OAuth 2.0 support in https://docs.s
 
 include::overview.adoc[]
 
-include::simple/README.adoc[leveloffset=+1]
-include::click/README.adoc[leveloffset=+1]
-include::logout/README.adoc[leveloffset=+1]
+include::social-simple/README.adoc[leveloffset=+1]
+include::social-click/README.adoc[leveloffset=+1]
+include::social-logout/README.adoc[leveloffset=+1]
 include::two-providers/README.adoc[leveloffset=+1]
 include::custom-error/README.adoc[leveloffset=+1]
 
